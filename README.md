@@ -12,11 +12,14 @@ This repository contains a project showcasing automation testing using SHAFT, a 
 - [License](#license)
 
 ## Project Description
-This project demonstrates how to create effective and efficient automated tests using the SHAFT framework. The purpose of this project is to:
+This project demonstrates how to create effective and efficient automated tests using the SHAFT_ENGINE framework. The purpose of this project is to:
 
 - Provide a hands-on example of automation testing using SHAFT.
 - Highlight best practices for designing and executing tests.
 - Serve as a reference for individuals looking to implement automation in their projects.
+- Valid login test
+- Add products to cart
+- E2E purchasing scenario
 
 ## Technologies Used
 - **Programming Language**: Java
