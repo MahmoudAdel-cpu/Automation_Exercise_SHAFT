@@ -47,7 +47,7 @@ This project demonstrates how to create effective and efficient automated tests 
 
 ## Running the Tests
 
-1. **Execute Tests Using Maven:**
+1. **Execute Tests Using xml file:**
    To run specific tests separately, you can use the `Regression.xml` file
 
 2. **Generate Reports:**
