@@ -48,10 +48,7 @@ This project demonstrates how to create effective and efficient automated tests 
 ## Running the Tests
 
 1. **Execute Tests Using Maven:**
-   Run the following command to execute the tests:
-   ```bash
-   mvn test
-   ```
+   To run specific tests separately, you can use the `Regression.xml` file
 
 2. **Generate Reports:**
    SHAFT automatically generates detailed reports. Locate the report in the `target` directory after running the tests.
