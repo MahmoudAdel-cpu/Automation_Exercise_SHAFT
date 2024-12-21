@@ -12,14 +12,13 @@ This repository contains a project showcasing automation testing using SHAFT, a 
 - [License](#license)
 
 ## Project Description
-This project demonstrates how to create effective and efficient automated tests using the SHAFT_ENGINE framework. The purpose of this project is to:
+This project demonstrates how to create effective and efficient automated tests using the SHAFT framework. The purpose of this project is to:
 
 - Provide a hands-on example of automation testing using SHAFT.
 - Highlight best practices for designing and executing tests.
 - Serve as a reference for individuals looking to implement automation in their projects.
-- Valid login test
-- Add products to cart
-- E2E purchasing scenario
+
+The project utilizes the **Page Object Model (POM)** and **Fluent Pattern** to structure the code, ensuring readability, maintainability, and reusability of test scripts.
 
 ## Technologies Used
 - **Programming Language**: Java
@@ -47,8 +46,8 @@ This project demonstrates how to create effective and efficient automated tests 
 
 ## Running the Tests
 
-1. **Execute Tests Using xml file:**
-   To run specific tests separately, you can use the `Regression.xml` file
+1. **Run Specific Tests:**
+   To run specific tests separately, you can use the `Regression.xml` file. 
 
 2. **Generate Reports:**
    SHAFT automatically generates detailed reports. Locate the report in the `target` directory after running the tests.
