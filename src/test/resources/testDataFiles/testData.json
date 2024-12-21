@@ -1,0 +1,13 @@
+{
+  "email" : "mahmoud@automation.com",
+  "password" : "Mahmoud123",
+  "name": "Mahmoud Adel",
+  "confirmOrderMsg": "ORDER PLACED!",
+  "cardHolder": "Automation test",
+  "cardNumber": "4822843621564997",
+  "CVC": "889",
+  "expiryMonth": "11",
+  "expiryYear": "28",
+  "successMsg": "Your order has been placed successfully!",
+  "orderPlacedMsg" : "ORDER PLACED!"
+}
